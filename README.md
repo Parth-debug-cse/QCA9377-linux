@@ -2,13 +2,13 @@
 
 
 
-!\[Linux](https://img.shields.io/badge/Linux-Supported-success)
+![Linux](https://img.shields.io/badge/Linux-Supported-success)
 
-!\[Kernel](https://img.shields.io/badge/Kernel-5.4%2B-blue)
+![Kernel](https://img.shields.io/badge/Kernel-5.4%2B-blue)
 
-!\[Driver](https://img.shields.io/badge/Driver-ath10k-orange)
+![Driver](https://img.shields.io/badge/Driver-ath10k-orange)
 
-!\[Status](https://img.shields.io/badge/Status-Maintained-brightgreen)
+![Status](https://img.shields.io/badge/Status-Maintained-brightgreen)
 
 
 
