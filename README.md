@@ -1,11 +1,6 @@
 ````md
 # Qualcomm Atheros QCA9377 Wireless (ath10k)
 
-![Linux](https://img.shields.io/badge/Linux-Supported-success)
-![Kernel](https://img.shields.io/badge/Kernel-5.4%2B-blue)
-![Driver](https://img.shields.io/badge/Driver-ath10k-orange)
-![Status](https://img.shields.io/badge/Status-Maintained-brightgreen)
-
 A **modern, up-to-date setup guide** to get the **Qualcomm Atheros QCA9377 (ath10k)**
 wireless adapter working reliably on **new Linux distributions**.
 
