@@ -1,4 +1,3 @@
-````md
 # Qualcomm Atheros QCA9377 Wireless (ath10k)
 
 A **modern, up-to-date setup guide** to get the **Qualcomm Atheros QCA9377 (ath10k)**
